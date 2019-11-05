@@ -1,0 +1,16 @@
+.Layout {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+header {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.input-container {
+    text-align: center;
+}
